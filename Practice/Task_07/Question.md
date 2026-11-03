@@ -1,6 +1,6 @@
 <details>
 <summary>
-Task 02:
+Task 07:
 </summary>
 Problem: A temperature sensor recorded these hourly readings (in degrees Celsius): [22.5, 23.1, 24.8, 27.2, 30.5, 32.1, 31.4, 29.9, 27.5, 25.0, 23.8, 22.9].
 
