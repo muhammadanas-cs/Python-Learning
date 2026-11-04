@@ -10,7 +10,7 @@ class Car:
     def fuel_type(self):
         return "Petrol or Diesel"
     
-    @staticmethod
+    @staticmethod #decorator
     def general_description():
         return "Cars are good"
         
