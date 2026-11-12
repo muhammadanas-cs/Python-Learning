@@ -2,5 +2,5 @@
 <summary>
 Task 09:
 </summary>
-Problem: declare one variable each of type int, float, str and bool to describe a product (name, price, quantity, availability). Print the values and their types.
+Problem: Write a python program that takes two numbers as input and performs addition, subtraction, multiplication, division, and modulus operations.
 </details>
