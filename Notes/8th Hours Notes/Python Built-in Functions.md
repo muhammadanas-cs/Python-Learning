@@ -37,3 +37,33 @@
 19. sorted(): Returns a new sorted list.
 
 20. reversed(): Returns a reverse iterator.
+
+21. enumerate(): Adds an index while iterating.
+
+22. zip(): Combines items from multiple iterables.
+
+23. map(): Applies a function to every item.
+
+24. filter(): Keeps items that match a condition.
+
+25. any(): Returns True if any items are truthy.
+
+26. all(): Returns True if all items are truthy.
+  
+27. pow(): Raises a number to a power.
+
+28. divmod(): Returns the quotient and remainder
+
+29. isinstance(): Checks whether an object is an instance of a type.
+
+30. issubclass(): Checks whethe a class inherits from another class.
+
+31. callable(): Checks whether an object can be called.
+
+32. id(): Returns an objects identity value.
+
+33. dir(): List available names and attributes.
+
+34. vars(): Returns an objects attribute dictionary when available.
+
+35. globals(): Returns the global namespace dictionary
