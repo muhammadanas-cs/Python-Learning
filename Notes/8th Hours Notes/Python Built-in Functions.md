@@ -1,7 +1,5 @@
 # Essential Python Built-in Functions
 
-A curated, GitHub-ready reference of the **most important and frequently used Python built-in functions**—organized by category and difficulty level, complete with clear explanations and runnable examples for each.
-
 ## Table of Contents
 
 1. [Input, Output & Inspection](#1-input-output--inspection)
